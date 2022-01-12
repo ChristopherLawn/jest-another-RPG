@@ -27,7 +27,7 @@ In this fun and easy-to-play fantasy RPG game, players battle goblins, orcs, and
 4. Defeat all enemies before they defeat you! 
 
 ## **Gameplay Screenshot Sample**
-![gameplay-screenshot-sample](./assets/gameplay-screenshot.PNG)
+![gameplay-screenshot](https://user-images.githubusercontent.com/91863054/149151819-8abdf03e-b6a6-485e-81b8-b659f45e886c.PNG)
 
 ## **Questions**
 Please contact me directly with any additional questions:
